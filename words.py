@@ -1,0 +1,75 @@
+"""
+Hangman Game Word and Phrase Dictionary
+Contains vocabulary for basic mode (words) and intermediate mode (phrases)
+"""
+
+# Basic Mode - Single Words
+BASIC_WORDS = [
+    "python", "computer", "programming", "algorithm", "function",
+    "variable", "string", "integer", "boolean", "dictionary",
+    "list", "tuple", "loop", "condition", "class", "object",
+    "method", "inheritance", "polymorphism", "encapsulation",
+    "abstraction", "recursion", "iteration", "debugging", "testing",
+    "framework", "library", "module", "package", "import",
+    "exception", "error", "syntax", "semantic", "compiler",
+    "interpreter", "runtime", "memory", "stack", "queue",
+    "tree", "graph", "hash", "sort", "search", "binary",
+    "linear", "recursive", "iterative", "optimization",
+    "hello", "world", "game", "player", "guess", "letter",
+    "word", "phrase", "level", "difficulty", "challenge",
+    "victory", "defeat", "success", "failure", "attempt"
+]
+
+# Intermediate Mode - Phrases
+INTERMEDIATE_PHRASES = [
+    "artificial intelligence",
+    "machine learning",
+    "data science",
+    "web development",
+    "mobile application",
+    "user interface",
+    "user experience",
+    "database management",
+    "software engineering",
+    "version control",
+    "agile methodology",
+    "test driven development",
+    "object oriented programming",
+    "functional programming",
+    "cloud computing",
+    "cyber security",
+    "network administration",
+    "system architecture",
+    "application programming interface",
+    "representational state transfer",
+    "structured query language",
+    "hypertext markup language",
+    "cascading style sheets",
+    "javascript object notation",
+    "extensible markup language",
+    "simple object access protocol",
+    "domain name system",
+    "transmission control protocol",
+    "internet protocol",
+    "file transfer protocol",
+    "hypertext transfer protocol",
+    "secure sockets layer",
+    "transport layer security",
+    "public key infrastructure",
+    "virtual private network",
+    "local area network",
+    "wide area network",
+    "wireless fidelity",
+    "bluetooth technology",
+    "near field communication",
+    "hello world",
+    "good morning",
+    "thank you",
+    "you are welcome",
+    "have a nice day",
+    "see you later",
+    "take care",
+    "best wishes",
+    "happy birthday",
+    "merry christmas"
+]
