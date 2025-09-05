@@ -20,12 +20,7 @@ A classic Hangman word guessing game with a graphical user interface, developed 
 ### Run the Game
 
 ```bash
-python main.py
-```
-
-Or run the GUI version directly:
-```bash
-python minimal_gui.py
+python hangman-gui.py
 ```
 
 ## 🎮 Game Rules
